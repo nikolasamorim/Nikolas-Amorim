@@ -5,7 +5,7 @@
 
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/nikolasamorim/">Nikolas Amorim</a>
+    <a href="https://www.linkedin.com/in/nikolasamorim/">Nikolas Amorim ⚡</a>
   </h1>
 
   <p align="center">
