@@ -47,5 +47,5 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/nikolasamorim/Nikolas-Amorim/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nikolasamorim/nikolasamorim/blob/output/github-contribution-grid-snake.svg)
 </div>
